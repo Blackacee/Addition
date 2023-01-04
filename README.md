@@ -1,2 +1,7 @@
 # Addition
-Addition operator adds integers 
+ 
+
+var a = 9,
+ b = 3,
+ c = a + b; //
+12
